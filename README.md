@@ -16,28 +16,26 @@
 ```js
 import tweetLinks from 'tweet-links';
 
-tweetLinks('unicorns'); // unicorns
+import zero from './fixtures/zero.json';
+import one  from './fixtures/one.json';
+import two  from './fixtures/two.json';
+
+tweetLinks(zero); // []
+tweetLinks(one);  // [ 'https://medium.com/the-year-of-the-looking-glass/a-managers-manifesto-be5f6b118084' ]
+tweetLinks(two);  // [ 'http://html5.by/blog/nwjs/', 'http://buznik.net/lifeChart/' ]
+tweetLinks();     // undefined ¯\_(ツ)_/¯
 ```
 
 ## API
 
-### tweetLinks(input, [options])
+### tweetLinks(input)
 
 #### input
 
 *Required*  
-Type: `String`
+Type: `Object`
 
-Lorem ipsum.
-
-#### options
-
-##### foo
-
-Type: `Boolean`  
-Default: `false`
-
-Lorem ipsum.
+[Tweet Object](https://dev.twitter.com/overview/api/tweets) from [Twitter API](https://dev.twitter.com/rest/public).
 
 ## License
 
