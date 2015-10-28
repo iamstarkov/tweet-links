@@ -1,3 +1,4 @@
 export default function tweetLinks(input) {
-  return input;
+  if (!input) return;
+  return input.entities.urls.map(item => item.expanded_url);
 };
