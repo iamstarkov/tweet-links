@@ -1,0 +1,44 @@
+{
+  "created_at": "Mon Aug 10 18:31:02 +0000 2015",
+  "id": 630808592497647600,
+  "id_str": "630808592497647617",
+  "text": "Так а чем рассылки лучше? @_sashashakun",
+  "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 630808399395950600,
+  "in_reply_to_status_id_str": "630808399395950592",
+  "in_reply_to_user_id": 159809934,
+  "in_reply_to_user_id_str": "159809934",
+  "in_reply_to_screen_name": "_sashashakun",
+  "user": {
+    "id": 3014054307,
+    "id_str": "3014054307"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "_sashashakun",
+        "name": "Alexander",
+        "id": 159809934,
+        "id_str": "159809934",
+        "indices": [
+          26,
+          39
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "lang": "ru"
+}

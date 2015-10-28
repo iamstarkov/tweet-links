@@ -1,0 +1,120 @@
+{
+  "created_at": "Sun Aug 16 14:16:58 +0000 2015",
+  "id": 632918979628109800,
+  "id_str": "632918979628109824",
+  "text": "RT @mr_mig_by: @jsunderhood не могу не поделиться еще и “манифестом менеджера”: https://t.co/gYHUsJQ6rZ",
+  "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 3014054307,
+    "id_str": "3014054307"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Sun Aug 16 14:12:29 +0000 2015",
+    "id": 632917853386219500,
+    "id_str": "632917853386219520",
+    "text": "@jsunderhood не могу не поделиться еще и “манифестом менеджера”: https://t.co/gYHUsJQ6rZ",
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 632837789416091600,
+    "in_reply_to_status_id_str": "632837789416091648",
+    "in_reply_to_user_id": 3014054307,
+    "in_reply_to_user_id_str": "3014054307",
+    "in_reply_to_screen_name": "jsunderhood",
+    "user": {
+      "id": 170772902,
+      "id_str": "170772902"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 4,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "jsunderhood",
+          "name": "Разработчик",
+          "id": 3014054307,
+          "id_str": "3014054307",
+          "indices": [
+            0,
+            12
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/gYHUsJQ6rZ",
+          "expanded_url": "https://medium.com/the-year-of-the-looking-glass/a-managers-manifesto-be5f6b118084",
+          "display_url": "medium.com/the-year-of-th…",
+          "indices": [
+            65,
+            88
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "ru"
+  },
+  "is_quote_status": false,
+  "retweet_count": 1,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "mr_mig_by",
+        "name": "Alexey Migutsky",
+        "id": 170772902,
+        "id_str": "170772902",
+        "indices": [
+          3,
+          13
+        ]
+      },
+      {
+        "screen_name": "jsunderhood",
+        "name": "Разработчик",
+        "id": 3014054307,
+        "id_str": "3014054307",
+        "indices": [
+          15,
+          27
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "https://t.co/gYHUsJQ6rZ",
+        "expanded_url": "https://medium.com/the-year-of-the-looking-glass/a-managers-manifesto-be5f6b118084",
+        "display_url": "medium.com/the-year-of-th…",
+        "indices": [
+          80,
+          103
+        ]
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "ru"
+}
