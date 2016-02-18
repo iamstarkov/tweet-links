@@ -37,6 +37,16 @@ Type: `Object`
 
 [Tweet Object](https://dev.twitter.com/overview/api/tweets) from [Twitter API](https://dev.twitter.com/rest/public).
 
+## Related
+
+* [get-tweets][get-tweets] — get latest tweets
+* [get-twitter-info][get-twitter-info] — get info about target username
+* [get-twitter-followers][get-twitter-followers] — get followers for target username
+* [tweets-stats][tweets-stats] — get statistics from array of tweets
+* [twitter-mentions][twitter-mentions] — get latest mentions for target username
+* [twitter-profile-media][twitter-profile-media] — get twitter profile image and banner
+* [twitter-tokens][twitter-tokens] — get twitter tokens
+
 ## License
 
 MIT © [Vladimir Starkov](https://iamstarkov.com)
@@ -52,3 +62,11 @@ MIT © [Vladimir Starkov](https://iamstarkov.com)
 
 [depstat-url]: https://david-dm.org/iamstarkov/tweet-links
 [depstat-image]: https://david-dm.org/iamstarkov/tweet-links.svg?style=flat-square
+
+[get-tweets]: https://github.com/iamstarkov/get-tweets
+[get-twitter-info]: https://github.com/iamstarkov/get-twitter-info
+[get-twitter-followers]: https://github.com/iamstarkov/get-twitter-followers
+[tweets-stats]: https://github.com/iamstarkov/tweets-stats
+[twitter-mentions]: https://github.com/iamstarkov/twitter-mentions
+[twitter-profile-media]: https://github.com/andrepolischuk/twitter-profile-media
+[twitter-tokens]: https://github.com/iamstarkov/twitter-tokens
